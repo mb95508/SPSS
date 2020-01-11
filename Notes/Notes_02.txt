@@ -1,0 +1,47 @@
+Qualitative analysis
+Qauntiative analysis
+GIGO
+Garbage In Garbage Out
+
+Validation Validate data in correct form
+
+10:00 ~ 13:20 
+
+license fee
+subscription
+
+H:\SPSS\Lecture_02\Exercise
+
+File locking
+Numeric String
+
+  123
+"123"
+"  123"
+
+dd-mm-yyyy
+mm-dd-yyyy
+
+1. Export from Excel File to Text File
+2. Import from this Text File to SPSS
+
+Delimited
+todayissaturday
+today	is	saturday
+
+" " delimitor
+space
+tab
+
+decimal symbol
+123.456
+123,456
+
+
+
+
+
+
+
+
+
